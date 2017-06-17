@@ -14,29 +14,34 @@ weight = 1
   interests = [
     "Multimedia Security",
     "Document Authentication",
-    "Coding Theory"
+    "Information and Coding Theory"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer science"
+  institution = "University of Montpellier (France)"
+  year = 2015
+
+[[education.courses]]
+  course = "MEng in Cryptology and Information Security"
+  institution = "University of Bordeaux (France)"
   year = 2012
+  
+[[education.courses]]
+  course = "MEng in Applied Mathematics"
+  institution = "Dnipropetrovsk National University by Oles Gonchar (Ukraine)"
+  year = 2010
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Applied Mathematics"
+  institution = "Dnipropetrovsk National University by Oles Gonchar (Ukraine)"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Iuliia TKACHENKO is a postdoctoral researcher in Laboratory of Informatics, Image and Interection (L3i) in La Rochelle, France. Her research interests include multimedia security, hybrid document authentication, semantic hashing, information hiding and cryptography.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently she is working in ANR project SHADES (Semantic Hash for Advanced Document Electronic Signature). The main topic of her work is text protection for integrity verification of hybrid documents (both numeric and printed).

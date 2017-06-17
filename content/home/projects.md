@@ -26,12 +26,12 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "2LQR code"
+  tag = ".support_authentication"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Text hashing"
+  tag = ".content_authentication"
 
 +++
 
