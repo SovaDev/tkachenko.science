@@ -101,7 +101,8 @@ defaultContentLanguageInSubdir = false
     'Work in progress',  # 3
     'Technical report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+	'Patent' #7
   ]
 
   # Social/Academic Networking
@@ -127,11 +128,6 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:iuliia.tkachenko@univ-lr.fr"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fa"
-  #  link = "//twitter.com/GeorgeCushen"
-
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
@@ -141,11 +137,6 @@ defaultContentLanguageInSubdir = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Tkachenko_Iuliia?ev=hdr_xprf"
-
-  #[[params.social]]
-  #  icon = "github"
-  #  icon_pack = "fa"
-  #  link = "//github.com/gcushen"
 
 
 # Navigation Links

@@ -14,12 +14,12 @@ weight = 60
 
 +++
 
-I was a part-time teaching instructor for the following course at University of La Rochelle:
+A part-time teaching instructor for the following course at University of La Rochelle:
 
-- 2016 Courses in Introduction to Informatics Systems for 1st year Computer Science students.
+- 2016 Courses in Introduction to Computer Systems for 1st year Computer Science students.
 Introduction to Linux (practical work - 37h).
 
-I was a part-time teaching instructor for the following courses at University of Montpellier:
+A part-time teaching instructor for the following courses at University of Montpellier:
 
 - 2015 Courses in Multimedia Compression and Encoding for 2nd year Image, Games and Intelligent Agents Master students.
 Introduction to graphical codes (seminars 3h + practical work 3h).
